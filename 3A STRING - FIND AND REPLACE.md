@@ -1,4 +1,4 @@
-# Exp.No:3a
+# Exp.No:3A
 ## STRING - FIND AND REPLACE
 
 ### AIM  
